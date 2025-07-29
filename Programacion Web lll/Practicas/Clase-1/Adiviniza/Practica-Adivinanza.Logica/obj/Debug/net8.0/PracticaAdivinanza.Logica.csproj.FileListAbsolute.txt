@@ -1,0 +1,23 @@
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.deps.json
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\refint\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\ref\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.deps.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\bin\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.AssemblyInfo.cs
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.sourcelink.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\refint\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Logica\obj\Debug\net8.0\ref\PracticaAdivinanza.Logica.dll

@@ -1,0 +1,37 @@
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.exe
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.deps.json
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.runtimeconfig.json
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica.EBB02DDA.Up2Date
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\refint\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.genruntimeconfig.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\ref\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.exe
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.deps.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.runtimeconfig.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Consola.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\bin\Debug\net8.0\PracticaAdivinanza.Logica.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.csproj.AssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.AssemblyInfo.cs
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.sourcelink.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica.EBB02DDA.Up2Date
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\refint\PracticaAdivinanza.Consola.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\PracticaAdivinanza.Consola.genruntimeconfig.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Adiviniza\Practica-Adivinanza.Consola\obj\Debug\net8.0\ref\PracticaAdivinanza.Consola.dll

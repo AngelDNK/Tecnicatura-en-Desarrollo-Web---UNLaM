@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica-Bola-8-Magica.Consola.exe
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica-Bola-8-Magica.Consola.deps.json
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica-Bola-8-Magica.Consola.runtimeconfig.json
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica-Bola-8-Magica.Consola.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica-Bola-8-Magica.Consola.pdb
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\refint\Practica-Bola-8-Magica.Consola.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.pdb
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\Practica-Bola-8-Magica.Consola.genruntimeconfig.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\obj\Debug\net8.0\ref\Practica-Bola-8-Magica.Consola.dll

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Practica.Bola8Mágica</id>
+    <version>1.0.0</version>
+    <authors>Practica.Bola8Mágica</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica.Bola8Mágica.runtimeconfig.json" target="lib\net8.0\Practica.Bola8Mágica.runtimeconfig.json" />
+    <file src="C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica.Bola8Mágica\bin\Debug\net8.0\Practica.Bola8Mágica.dll" target="lib\net8.0\Practica.Bola8Mágica.dll" />
+  </files>
+</package>

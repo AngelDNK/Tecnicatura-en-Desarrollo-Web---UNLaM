@@ -1,0 +1,11 @@
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\Practica-Adivinanza.Logica.deps.json
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\Practica-Adivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\bin\Debug\net8.0\Practica-Adivinanza.Logica.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\refint\Practica-Adivinanza.Logica.dll
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\Practica-Adivinanza.Logica.pdb
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Logica\obj\Debug\net8.0\ref\Practica-Adivinanza.Logica.dll

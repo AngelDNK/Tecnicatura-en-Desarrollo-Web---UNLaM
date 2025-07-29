@@ -1,0 +1,23 @@
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.deps.json
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.pdb
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\refint\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.pdb
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\ref\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.deps.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\bin\Debug\net8.0\PracticaBola8Magica.Logica.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.AssemblyInfo.cs
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.sourcelink.json
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\refint\PracticaBola8Magica.Logica.dll
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\PracticaBola8Magica.Logica.pdb
+C:\Users\Angel\Documents\GitHub\Tecnicatura-en-Desarrollo-Web---UNLaM\Programacion Web lll\Practicas\Clase-1\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\ref\PracticaBola8Magica.Logica.dll

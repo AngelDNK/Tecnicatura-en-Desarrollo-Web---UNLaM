@@ -1,0 +1,4 @@
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\Bola8Magica.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\Bola8Magica.Logica.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\Bola8Magica.Logica.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica.Bola8Mágica\Practica-Bola-8-Magica.Logica\obj\Debug\net8.0\Bola8Magica.Logica.csproj.CoreCompileInputs.cache

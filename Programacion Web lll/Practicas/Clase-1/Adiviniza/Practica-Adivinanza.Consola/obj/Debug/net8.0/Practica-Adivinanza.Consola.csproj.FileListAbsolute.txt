@@ -1,0 +1,5 @@
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica-Adivinanza.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica-Adivinanza.Consola.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica-Adivinanza.Consola.AssemblyInfo.cs
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica-Adivinanza.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\Practica-Adivinanza\Practica-Adivinanza.Consola\obj\Debug\net8.0\Practica-Adivinanza.Consola.csproj.AssemblyReference.cache
