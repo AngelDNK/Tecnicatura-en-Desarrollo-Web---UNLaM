@@ -1,5 +1,5 @@
-# Carpeta de Trabajos Prácticos y Exámenes de Introduccion a la Administracion de Proyectos
-Esta carpeta contiene todos los trabajos prácticos (TPs) y exámenes correspondientes a la materia Introduccion a la Administracion de Proyectos cursada en 2025. La estructura está organizada para facilitar la navegación y el acceso a cada recurso de forma rápida y ordenada.
+# Carpeta de Trabajos Prácticos y Exámenes de Seguridad y Calidad en Aplicaciones Web
+Esta carpeta contiene todos los trabajos prácticos (TPs) y exámenes correspondientes a la materia Seguridad y Calidad en Aplicaciones Web cursada en 2024. La estructura está organizada para facilitar la navegación y el acceso a cada recurso de forma rápida y ordenada.
 ## Estructura de la Carpeta
 La carpeta principal de la materia incluye subcarpetas con los siguientes contenidos:
 
@@ -11,6 +11,6 @@ La carpeta principal de la materia incluye subcarpetas con los siguientes conten
 
 ## Enlances de Repaso  
 
-- [Simulacion de 1er Parcial](https://docs.google.com/forms/d/e/1FAIpQLSdVeXiw5U7wzV1e0bY7w7rz-3JeQpWAqtYjo5hqfl19P2oRkQ/viewform?usp=sharing&ouid=113111617625853573092)
+- [Simulacion de 1er Parcial](https://docs.google.com/forms/d/e/1FAIpQLSfiCl8NQkC0-tCRXePQuPO027leBhLGTDS8tC-m4fUtp6P5bw/viewform?usp=header)
 
-- [Simulacion de 2do Parcial](https://docs.google.com/forms/d/e/1FAIpQLScJjg-E1Hcz0F5LH4SRjpiUyErMnF9PfPhtietxO2Wfg8-0qw/viewform?usp=header)
+- [Simulacion de 2do Parcial](https://docs.google.com/forms/d/e/1FAIpQLSddoIl3wU12OVtAYTustzeHeZAKJQEMqhCqUvhyvF_ij10GQw/viewform?usp=header)
